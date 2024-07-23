@@ -1,0 +1,60 @@
+body {
+  background-color: #3791ec;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.custom-navbar {
+  background-color: #343a40 !important;
+  color: #ffffff !important;
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .navbar-nav .nav-link,
+.custom-navbar .navbar-toggler-icon {
+  color: #ffffff !important;
+}
+
+.custom-search {
+  border: 2px solid #ced4da;
+}
+
+.custom-button {
+  border-radius: 50px;
+}
+
+.custom-card {
+  background-color: #e4eef7;
+  border: 1px solid #ced4da;
+  border-radius: 10px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.custom-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-card-title {
+  font-size: 1.5rem;
+  color: #343a40;
+  font-weight: bold;
+}
+
+.custom-card-subtitle {
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.custom-card-text {
+  font-size: 1rem;
+  color: #495057;
+}
+
+.custom-card-button {
+  border-radius: 50px;
+  font-weight: bold;
+}
+
+.custom-card-button:hover {
+  opacity: 0.8;
+}
