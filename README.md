@@ -43,4 +43,6 @@ roles: Stores role details (Associate, Admin)
 user_roles: Stores user-role mappings
 
 
-LinkedIn profile : 
+LinkedIn profile : https://www.linkedin.com/posts/mohanrajs08_task-tracker-application-i-am-excited-to-activity-7221557680471994368-njag?utm_source=share&utm_medium=member_desktop
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7221557373373407232" height="781" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
